@@ -1,4 +1,4 @@
-import React from 'react'
+
 import { BiBook, BiVideo } from 'react-icons/bi'
 import { FaCertificate } from 'react-icons/fa'
 import { GiTeacher } from 'react-icons/gi'

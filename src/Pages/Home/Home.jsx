@@ -1,4 +1,4 @@
-import React from 'react'
+
 import Hero from '../../Componants/Hero/Hero'
 import Trusted from '../../Componants/Trusted/Trusted'
 import Details from '../../Componants/Details/Details'

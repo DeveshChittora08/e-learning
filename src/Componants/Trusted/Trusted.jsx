@@ -1,4 +1,3 @@
-import React from 'react'
 import glovo from '../../assets/glovo-logo.svg'
 import oracal from '../../assets/oracle-logo.svg'
 import paypal from '../../assets/paypal-logo.svg'

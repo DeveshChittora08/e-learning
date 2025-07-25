@@ -1,4 +1,4 @@
-import React from 'react'
+
 
 import { coursesData } from '../../data'
 import { useParams } from 'react-router-dom'

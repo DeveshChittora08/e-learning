@@ -1,4 +1,4 @@
-import React from 'react'
+import PropTypes from 'prop-types';
 import { FaChartSimple } from 'react-icons/fa6';
 
 function Course({course}) {
@@ -19,5 +19,14 @@ const {image, name, price, standard} = course;
     </div>
   )
 }
+
+Course.propTypes = {
+  course: PropTypes.shape({
+    image: PropTypes.string,
+    name: PropTypes.string,
+    price: PropTypes.number,
+    standard: PropTypes.string
+  }).isRequired
+};
 
 export default Course

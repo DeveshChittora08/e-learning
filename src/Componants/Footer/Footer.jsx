@@ -1,9 +1,9 @@
-import React from 'react'
+
 import { SiEducative } from 'react-icons/si'
 import { Link } from 'react-router-dom'
-import {faceboook} from '../../assets/facebook_icon.png'
-import {twitter} from '../../assets/twitter_icon.png'
-import {linkedin} from '../../assets/linkedin_icon.png'
+// import {faceboook} from '../../assets/facebook_icon.png'
+// import {twitter} from '../../assets/twitter_icon.png'
+// import {linkedin} from '../../assets/linkedin_icon.png'
 import { FaFacebook, FaLinkedin, FaTwitter } from 'react-icons/fa'
 
 function Footer() {
